@@ -83,9 +83,9 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 ### Instructions
 
-Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  
+Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
 
-* Check the filename of environment when create `env`, then `Continuous_Control.ipynb` can be run successfully.
+* Check the filename of environment when create `env`, then `Tennis.ipynb` can be run successfully.
 * Weights of trained agents are saved in `checkpoint_actor0.pth`, `checkpoint_critic0.pth`, `checkpoint_actor1.pth` and `checkpoint_critic1.pth`.
 * If you want to watch a trained agent directly, feel free to skip the training process(initialization is still required).
 * The algorithm and result are illustrated in [Report.md](Report.md).
