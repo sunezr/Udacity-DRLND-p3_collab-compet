@@ -68,8 +68,8 @@ To set up your python environment to run the code in this repository, follow the
 3. Clone the repository (if you haven't already!), and navigate to the `python/` folder.  Then, install several dependencies.
 
 ```bash
-git clone https://github.com/sunezr/Udacity_DRLND_p2.git
-cd Udacity_DRLND_p2/python
+git clone https://github.com/sunezr/Udacity-DRLND-p3collab-compet.git
+cd Udacity-DRLND-p3collab-compet/python
 pip install .
 ```
 
